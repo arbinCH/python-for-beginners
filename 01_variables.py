@@ -1,7 +1,7 @@
-# variable = A container for data or value(string, integer, float, boolean.("data types"))
+# variable = A container of data or value(string, integer, float, boolean.("data types"))
 # A variable behaves as if it was the value it contains.
 
-# string is a series of characters. It includes letters, numbers, and symbols. But we treat is number as a character.
+# string is a series of characters. It includes letters, numbers, and symbols. But we treat number as a character.
 first_name = "Bro"
 food = "Pizza"
 email = "bro@example.com"
